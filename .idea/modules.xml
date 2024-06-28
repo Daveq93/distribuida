@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Distribuida.iml" filepath="$PROJECT_DIR$/.idea/Distribuida.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringFramework/SpringFramework.iml" filepath="$PROJECT_DIR$/SpringFramework/SpringFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authors-app/authors-app.iml" filepath="$PROJECT_DIR$/authors-app/authors-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/books-app/books-app.iml" filepath="$PROJECT_DIR$/books-app/books-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evaluacion1/evaluacion1.iml" filepath="$PROJECT_DIR$/evaluacion1/evaluacion1.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+# esto solo es para cambiar el puerto donde se corre las aplicaciones
+api:
+  insecure: true
+  dashboard: true
+
+entryPoints:
+  http:
+    address: ":7070"
+
+providers:
+  file:
+    filename: apps.yml
+    watch: true
